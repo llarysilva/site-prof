@@ -143,6 +143,3 @@ main {
 #contato a:hover > i {
     transform: scale(1.5);
 }
-#projetos{
-    background-image: linear-gradient( to bottom, rgb(182, 182, 182), rgb(145, 145, 145), rgb(167, 167, 167));
-}
