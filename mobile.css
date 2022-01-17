@@ -34,8 +34,8 @@ nav {
     grid-template-columns: repeat(2, 1fr);
 }
 .img {
-    width: 50%;
-    height: 50%;
+    width: 30%;
+    height: 30%;
 }
 .blocos {
     width: 70%;
